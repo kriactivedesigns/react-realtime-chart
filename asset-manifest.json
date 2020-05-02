@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-realtime-chart/static/css/main.f479801f.chunk.css",
+    "main.js": "/react-realtime-chart/static/js/main.74b20f03.chunk.js",
+    "main.js.map": "/react-realtime-chart/static/js/main.74b20f03.chunk.js.map",
+    "runtime-main.js": "/react-realtime-chart/static/js/runtime-main.5344db85.js",
+    "runtime-main.js.map": "/react-realtime-chart/static/js/runtime-main.5344db85.js.map",
+    "static/js/2.86d956bd.chunk.js": "/react-realtime-chart/static/js/2.86d956bd.chunk.js",
+    "static/js/2.86d956bd.chunk.js.map": "/react-realtime-chart/static/js/2.86d956bd.chunk.js.map",
+    "index.html": "/react-realtime-chart/index.html",
+    "precache-manifest.8e5b3b0a36ba713e73a14165513a4fdc.js": "/react-realtime-chart/precache-manifest.8e5b3b0a36ba713e73a14165513a4fdc.js",
+    "service-worker.js": "/react-realtime-chart/service-worker.js",
+    "static/css/main.f479801f.chunk.css.map": "/react-realtime-chart/static/css/main.f479801f.chunk.css.map",
+    "static/js/2.86d956bd.chunk.js.LICENSE.txt": "/react-realtime-chart/static/js/2.86d956bd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5344db85.js",
+    "static/js/2.86d956bd.chunk.js",
+    "static/css/main.f479801f.chunk.css",
+    "static/js/main.74b20f03.chunk.js"
+  ]
+}
