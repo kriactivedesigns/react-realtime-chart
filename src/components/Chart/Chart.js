@@ -46,9 +46,9 @@ function Chart(props){
                         margin={
                             {
                                 top: 10,
-                                right: 0,
-                                left: 0,
-                                bottom: 0
+                                right: 20,
+                                left: 20,
+                                bottom: 30
                             }
                         }>
                         <defs>
