@@ -1,0 +1,21 @@
+.app_header{
+    position: fixed;
+    height: 70px;
+    box-shadow: 1px 0px 2px #121212;
+    background-color: #ffffff;
+    width: 100vw;
+    z-index: 9999;
+    h1{
+        text-align: center;
+        margin-bottom: auto;
+        margin-top: 10px;
+    }
+}
+
+.chart_container{
+    height: calc(100vh - 70px);
+    width: 100vw;
+    padding-top: 80px;
+    display: flex;
+    flex-direction: column;
+}

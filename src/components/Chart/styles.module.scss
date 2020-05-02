@@ -2,13 +2,13 @@
 
 .main_chart_container{
     display: flex;
+    border: 0.5px solid #e6e6e6;
     flex-flow: column;
     max-width: 900px;
     height: 100%;
     margin: 10px 0px;
     margin-top: 10px;
     border-radius: 8px;
-    border: 0.5px solid #e6e6e6;
     box-shadow: 0px 0px 5px 2px #e6e6e6;
     .chart_header{
         padding: 0;
@@ -27,6 +27,8 @@
                 margin: 0;
                 text-align: center;
                 color: white;
+            }
+            .currency_name{
             }
             .currency_value{
                 font-weight: 700;
